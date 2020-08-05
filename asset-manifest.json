@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/DayasDating/static/css/main.92fb1b5a.chunk.css",
+    "main.js": "/DayasDating/static/js/main.e11c14f1.chunk.js",
+    "main.js.map": "/DayasDating/static/js/main.e11c14f1.chunk.js.map",
+    "runtime-main.js": "/DayasDating/static/js/runtime-main.054751e2.js",
+    "runtime-main.js.map": "/DayasDating/static/js/runtime-main.054751e2.js.map",
+    "static/css/2.006c5c95.chunk.css": "/DayasDating/static/css/2.006c5c95.chunk.css",
+    "static/js/2.35eaf4a5.chunk.js": "/DayasDating/static/js/2.35eaf4a5.chunk.js",
+    "static/js/2.35eaf4a5.chunk.js.map": "/DayasDating/static/js/2.35eaf4a5.chunk.js.map",
+    "index.html": "/DayasDating/index.html",
+    "precache-manifest.5d1d30e134714f3bd12d0ef138126185.js": "/DayasDating/precache-manifest.5d1d30e134714f3bd12d0ef138126185.js",
+    "service-worker.js": "/DayasDating/service-worker.js",
+    "static/css/2.006c5c95.chunk.css.map": "/DayasDating/static/css/2.006c5c95.chunk.css.map",
+    "static/css/main.92fb1b5a.chunk.css.map": "/DayasDating/static/css/main.92fb1b5a.chunk.css.map",
+    "static/js/2.35eaf4a5.chunk.js.LICENSE.txt": "/DayasDating/static/js/2.35eaf4a5.chunk.js.LICENSE.txt",
+    "static/media/02.jpg": "/DayasDating/static/media/02.9603a66b.jpg",
+    "static/media/04.jpg": "/DayasDating/static/media/04.399620fa.jpg",
+    "static/media/05.jpg": "/DayasDating/static/media/05.786ecedb.jpg",
+    "static/media/avatar.jpg": "/DayasDating/static/media/avatar.ceb9c79e.jpg",
+    "static/media/dayas.jpg": "/DayasDating/static/media/dayas.036629db.jpg",
+    "static/media/dayas2.jpg": "/DayasDating/static/media/dayas2.6e9b47df.jpg",
+    "static/media/dayas3.jpg": "/DayasDating/static/media/dayas3.4249b1bf.jpg",
+    "static/media/dayas4.jpg": "/DayasDating/static/media/dayas4.40795f3b.jpg",
+    "static/media/grace1.jpg": "/DayasDating/static/media/grace1.61098178.jpg",
+    "static/media/grace2.jpg": "/DayasDating/static/media/grace2.b54e2c21.jpg",
+    "static/media/grage.JPG": "/DayasDating/static/media/grage.812ffefe.JPG",
+    "static/media/open.jpg": "/DayasDating/static/media/open.cb8c2a85.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.054751e2.js",
+    "static/css/2.006c5c95.chunk.css",
+    "static/js/2.35eaf4a5.chunk.js",
+    "static/css/main.92fb1b5a.chunk.css",
+    "static/js/main.e11c14f1.chunk.js"
+  ]
+}
